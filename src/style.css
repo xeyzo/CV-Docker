@@ -1,0 +1,26 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+.header h1 {
+    @apply text-6xl;
+}
+
+.judul {
+    @apply text-xl text-blue-600;
+}
+
+.nilai {
+    @apply text-5xl text-blue-600;
+}
+
+.title {
+    @apply text-xl text-gray-700;
+}
+
+
+/* .job-title {
+    @apply text-6xl bg-blue-200 text-white px-1 rounded;
+}  */
